@@ -1,0 +1,13 @@
+Hello,
+
+I am a security researcher at the Center for IT-Security, Privacy and Accountability at Saarland University, Germany.
+
+I have found a vulnerability in your site domain.com. I would like to disclose the vulnerability to the correct contact. Could you please point me to that person or confirm that this is you?
+
+Thank you and best regards,
+ Ben
+
+---
+Dr.-Ing. Ben Stock
+Center for IT-Security, Privacy and Accountability (CISPA)
+Saarland University
