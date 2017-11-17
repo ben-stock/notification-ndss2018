@@ -1,0 +1,22 @@
+Vulnerability Notification for your domain domain.com
+
+Hello,
+
+I am a security researcher at Saarland University in Germany. Our current research project aims to inform Web site owners about critical vulnerabilities in their Web sites. 
+
+I would like to raise your attention to the following security-critical issues on your Web site domain.com:
+- CVE-2016-4566: A Same Origin Method Execution (SOME) vulnerability allows an attacker to force their victim to interact with the vulnerable page using callback functions.
+- CVE-2016-4567: A Cross-Site Scripting attack may be used by an attacker to arbitrarily interact with the vulnerable application in the name of the victim, thereby allowing impersonation attacks, account hijacking, and password extraction.
+- Publicly available git repository: The version control system git stores all relevant data for the versioning in a folder called .git. If this directory is accessible via HTTP, an attacker can recover the repository content, i.e., the code of the vulnerable site, including all credentials stored in the code.
+
+You can review more detailed information on the vulnerabilities and how to fix them in two ways:
+Visit our Web interface at webinterface.
+You can reply to this email and set the subject line to contain this token: aa......ff. We will then respond with a detailed vulnerability report.
+Since this notification is part of an ongoing research project, we will re-check your web site to verify if the vulnerability has been fixed. If you wish us to stop this check, please contact me at ben.stock@notify.cispa.uni-saarland.de. Should you need further information or have any other questions, please do not hesitate to contact me using the same email address. 
+
+Best regards,
+Ben Stock
+--- 
+Center for IT-Security, Privacy and Accountability (CISPA)
+Saarland University, Building E9 1
+Phone +49 681 302 57377
